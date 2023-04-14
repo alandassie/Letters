@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.4.13)  13 APR 2023 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.4.13)  14 APR 2023 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,23 +781,23 @@ Package csquotes Info: Redefining alias 'default' -> 'british'.
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Package hyperref Info: Link coloring OFF on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -809,9 +809,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count320
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -917,150 +917,37 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
- [][]\T1/cmr/m/n/10.95 Ibrahim Ot-ter
+ [][]\T1/cmr/m/n/10.95 Alan Cruz Dassie
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
- []\T1/cmr/m/n/10.95 Estuary Drive 12
+ []\T1/cmr/m/n/10.95 27 de Febrero 210 Bis, IFIR
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
- []\T1/cmr/m/n/10.95 22850 River-side
+ []\T1/cmr/m/n/10.95 Rosario, Ar-gentina
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
- [][][]\T1/cmr/m/n/10.95 1 23 456 789[]
+ [][][]\T1/cmr/m/n/10.95 54 341 5159190[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
- [][]\T1/cmr/m/n/10.95 please@otter.me[]
+ [][]\T1/cmr/m/n/10.95 dassiealan@gmail.com
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 3
-.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+ []\T1/cmr/m/n/10.95 dassie@ifir-conicet.gov.ar[]
+ []
+
 
 Overfull \hbox (28.06322pt too wide) in paragraph at lines 3--4
 []  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-)
-<static/signature.png, id=53, 291.0875pt x 174.6525pt>
-File: static/signature.png Graphic file (type png)
-<use static/signature.png>
-Package pdftex.def Info: static/signature.png  used on input line 25.
-(pdftex.def)             Requested size: 94.84215pt x 56.9055pt.
-
-Overfull \hbox (31.06325pt too wide) in paragraph at lines 26--26
-[]  [] 
- []
-
-(./main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
-
- [1
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./static/signature.png>]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(199.16928pt, 327.20671pt, 71.13188pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=327.20671pt
-* \textheight=731.23584pt
-* \oddsidemargin=126.89929pt
-* \evensidemargin=126.89929pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-<static/otter.jpg, id=69, 1606.0pt x 1382.16376pt>
-File: static/otter.jpg Graphic file (type jpg)
-<use static/otter.jpg>
-Package pdftex.def Info: static/otter.jpg  used on input line 28.
-(pdftex.def)             Requested size: 171.90646pt x 147.95467pt.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 28.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 28.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 28.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-(./cv/profile.tex)
-File: static/signature.png Graphic file (type png)
-<use static/signature.png>
-Package pdftex.def Info: static/signature.png  used on input line 30.
-(pdftex.def)             Requested size: 94.84215pt x 56.9055pt.
- [2
-
-
- <./static/otter.jpg>] (./letters/motivation.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
  []
 
 
@@ -1098,96 +985,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-[3
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
 )
-Underfull \hbox (badness 10000) in paragraph at lines 23--34
+<static/signature.png, id=13, 247.67531pt x 130.98938pt>
+File: static/signature.png Graphic file (type png)
+<use static/signature.png>
+Package pdftex.def Info: static/signature.png  used on input line 26.
+(pdftex.def)             Requested size: 107.59427pt x 56.9055pt.
+ [1
 
- []
 
-[4]
-<attachments/certificate.pdf, id=91, 845.07718pt x 597.73312pt>
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf>
-Package pdftex.def Info: attachments/certificate.pdf  used on input line 36.
-(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf>
-Package pdftex.def Info: attachments/certificate.pdf  used on input line 36.
-(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
-<attachments/certificate.pdf, id=94, page=1, 845.07718pt x 597.73312pt>
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf, page 1>
-Package pdftex.def Info: attachments/certificate.pdf , page1 used on input line
- 36.
-(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf, page 1>
-Package pdftex.def Info: attachments/certificate.pdf , page1 used on input line
- 36.
-(pdftex.def)             Requested size: 597.55899pt x 422.66055pt.
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf, page 1>
-Package pdftex.def Info: attachments/certificate.pdf , page1 used on input line
- 36.
-(pdftex.def)             Requested size: 597.55899pt x 422.66055pt.
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf, page 1>
-Package pdftex.def Info: attachments/certificate.pdf , page1 used on input line
- 36.
-(pdftex.def)             Requested size: 597.55899pt x 422.66055pt.
-File: attachments/certificate.pdf Graphic file (type pdf)
-<use attachments/certificate.pdf, page 1>
-Package pdftex.def Info: attachments/certificate.pdf , page1 used on input line
- 36.
-(pdftex.def)             Requested size: 597.55899pt x 422.66055pt.
- [5
 
- <./attachments/certificate.pdf>] (./main.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./static/signature.png>] (
+./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6C11ADF7DC88DBD19B9ABDE726DB70F2;662.
+(rerunfilecheck)             Checksum: 2F1838CFC6A320124CC5FA61E60F637A;48.
  ) 
 Here is how much of TeX's memory you used:
- 26243 strings out of 481117
- 509757 string characters out of 5912368
- 819008 words of memory out of 5000000
- 42679 multiletter control sequences out of 15000+600000
- 415341 words of font info for 50 fonts, out of 8000000 for 9000
+ 25953 strings out of 481117
+ 503796 string characters out of 5912368
+ 816924 words of memory out of 5000000
+ 42446 multiletter control sequences out of 15000+600000
+ 406803 words of font info for 32 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
- 128i,17n,130p,670b,1064s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texm
-f-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist
-/fonts/enc/dvips/fontawesome5/fa5free3.enc}</usr/share/texlive/texmf-dist/fonts
-/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/
+ 128i,7n,130p,527b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfti0600.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (5 pages, 312021 bytes).
+m-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (1 page, 92211 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

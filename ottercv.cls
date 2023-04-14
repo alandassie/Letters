@@ -108,7 +108,7 @@
 	\let\adressfont\textbf
 	\def\curriculumvitae{%
 		\vindent5cm\vleft2cm
-	    \setstretch{1}\pagestyle{empty}
+	    \setstretch{1.15}\pagestyle{empty}
 	    \newgeometry{left=\dimexpr\vleft+\vindent\relax, right=\vleft, top=1cm, bottom=1cm}
 	    \begin{tikzpicture}[remember picture, overlay]
 	        \coordinate (corner) at  ($(current page.north west) - (0,\picsize+2cm)$);
@@ -140,7 +140,7 @@
 	\def\curriculumvitae{%
 		\vindent45mm\vleft25mm
 		\newgeometry{left=\dimexpr\vleft+\vindent\relax, right=\vleft, top=2cm, bottom=2cm}
-		\setstretch{1}\pagestyle{empty}
+		\setstretch{1.15}\pagestyle{empty}
 		\begin{tikzpicture}[remember picture, overlay]
 		\coordinate (right) at ($(current page.north east) - (\vleft,2cm)$);
 		\coordinate (left) at ($(current page.north west) + (\vleft,-2cm)$);
@@ -314,7 +314,7 @@
         \node[anchor=north west, text width=\textwidth,inner sep=0pt] (adress) at ($(-\letterind,0|-head.south)-(0,2\lettersep)$) {%
             \ifthenelse{\boolean{\pgfkeysvalueof{/letter/sender}}}{\textsf{\underline{\@author, \ifx\@careof\@empty \else \@careof, \fi \@street, \@zip}}\\[1.5\lettersep]}{}%
             \@recepient};
-        \node[anchor=north west, text width=\textwidth,inner sep=0pt] at (0,0|-adress.south) {\vspace{3\lettersep}\par{\raggedleft\@date\\[2\lettersep]} \par \textbf{\@subject}};
+        \node[anchor=north west, text width=\textwidth,inner sep=0pt] at (0,0|-adress.south) {\vspace{3\lettersep} \par \textbf{\@subject}}; % \par{\raggedleft\@date\\[2\lettersep]}
     	\end{tikzpicture}
 }
 
