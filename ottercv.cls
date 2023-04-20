@@ -299,7 +299,7 @@
 \newcommand{\coverletter}[1][]{%
     \pgfkeys{/letter/.cd,#1}\vindent0cm
         \part[attachment=false]{\@coverletter}
-    	\newgeometry{vmargin=1.cm, hmargin=2cm}
+    	\newgeometry{vmargin=1.6cm, hmargin=1.6cm}
         \hspace{\dimexpr-3pt-\letterind\relax}
     	\begin{tikzpicture}
     	\node[text width=\dimexpr\textwidth+\letterind\relax, anchor=north west, align=right, inner sep=0cm, font=\small] (head) at (0,0){%
